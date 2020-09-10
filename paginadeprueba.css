@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+
+/* arrancamos con nuestro css*/
+
+body {}
+
+header {
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 2em;
+    font-family: 'Permanent Marker', cursive;
+    color: rgb(178, 32, 166);
+    width: 25%;
+    margin: 10px 0px 20px 20px;
+}
+
+li {
+    background-color: greenyellow;
+    text-decoration: none;
+    padding: 10px
+}
